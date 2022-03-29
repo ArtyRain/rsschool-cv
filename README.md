@@ -1,3 +1,3 @@
 # cv-link
 
-<https://artyrain.github.io/rsschool-cv/cv>
+https://artyrain.github.io/rsschool-cv/cv
